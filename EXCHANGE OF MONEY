@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+    int USD,INR;
+    int one_USD=83;
+    printf("No. of dollors has to exchange=");
+    scanf("%d",&USD);
+    INR=83*USD;
+    printf("the Amount in INR=%d",INR);
+    
+    
+}
