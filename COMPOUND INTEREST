@@ -23,3 +23,11 @@ int main() {
 
     return 0;
 }
+OUTPUT;
+Enter the principal amount: 8000
+Enter the annual interest rate (in percentage): 8
+Enter the time (in years): 3
+Enter the number of times interest is compounded per year: 4
+Total Amount: 10145.93
+Compound Interest: 2145.93
+
