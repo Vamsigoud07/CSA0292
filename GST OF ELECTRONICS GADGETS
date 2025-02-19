@@ -22,3 +22,12 @@ GST=0.1*total_amount;
 final_amount=GST+total_amount;
 printf("total amount with out GST=%d\ntotal amount with GST=%f\nfinal_amount=%f ",total_amount,GST,final_amount);
 }
+OUTPUT;
+Enter No.of lap,Headset and charger=3 2 4
+the price of lap=270000
+the price of headset=20000
+the price of charger=20000
+total amount with out GST=310000
+total amount with GST=31000.000000
+final_amount=341000.000000 
+
