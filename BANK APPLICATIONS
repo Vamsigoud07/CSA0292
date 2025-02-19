@@ -25,3 +25,9 @@ int main(){
     printf("Final balance in account=%d",Final_balance);
     
 }
+OUTPUT;
+intial balance=5000
+Amount you want to deposit=2000
+Current amount in account=7000
+Amount to withdraw from account=1500
+Final balance in account=5500
